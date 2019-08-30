@@ -1,7 +1,15 @@
 body {
-  padding-top: 7rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
+}
+
+.hero-banner {
+  margin-bottom: 4rem;
+}
+
+.hero-banner img {
+  width: 100%;
 }
 
 .teasers h2 {
