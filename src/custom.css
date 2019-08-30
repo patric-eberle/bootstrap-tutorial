@@ -1,0 +1,12 @@
+.teasers h2 {
+  font-weight: 400; /* You can also use lighter, normal, bold, bolder */
+}
+
+.teasers p {
+  margin-right: .75rem; /* rem is a unit which relates to the root font-size. So we apply 75% of the font-size of the <html> element (default: 16px) */
+  margin-left: .75rem;
+}
+
+.teasers [class*="col-"] {
+  margin-bottom: 1.5rem;
+}
